@@ -156,15 +156,15 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=2109avi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=2109avi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="800"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=2109avi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="85%"/>
 
 </div>
-
 ---
 
 ## 🎓 Education & Credentials
@@ -176,10 +176,6 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 `Sep 2022 - Nov 2024`
 
 **Relevant Coursework:** Cloud Architecture | Distributed Systems | DevOps Engineering | Network Security | System Design
-
-**Bachelor of Science (B.Sc.) - Information Technology**  
-*Ranchi College* | Score: **68.9%**  
-`Aug 2015 - Jul 2020`
 
 ---
 
