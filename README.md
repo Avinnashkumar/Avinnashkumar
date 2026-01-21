@@ -12,11 +12,11 @@
 ## 🚀 About Me
 
 ```yaml
-name: Avinash Kumar
-role: Cloud-Native DevOps Engineer & Full-Stack Developer
-education: MCA in Cloud Computing (84.17% - Top 10%)
-focus: ["Cloud Infrastructure", "CI/CD Automation", "Scalable Systems"]
-current_learning: DevOps with AWS @ Naresh i Technologies
+Name: Avinash Kumar
+Role: Cloud-Native DevOps Engineer & Full-Stack Developer
+Education: MCA in Cloud Computing (84.17% - Top 10%)
+Focus: ["Cloud Infrastructure", "CI/CD Automation", "Scalable Systems"]
+Current_learning: DevOps with AWS @ Naresh i Technologies
 ```
 
 Cloud-native DevOps Engineer passionate about building and automating scalable infrastructure. I specialize in **AWS cloud services**, **CI/CD pipeline automation**, and **modern web development**. With a strong academic foundation and hands-on project experience, I leverage cutting-edge technologies to solve complex engineering challenges and drive operational excellence.
