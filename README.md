@@ -43,9 +43,9 @@ Here are the technologies I work with:
 ---
 
 ### 📊 GitHub Stats
-
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Avinash kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Avinash kumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
