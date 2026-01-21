@@ -152,24 +152,6 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/2109avi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=2109avi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
 
 ### 📈 Contribution Activity
 
