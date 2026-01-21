@@ -1,73 +1,150 @@
-# [cite_start]💫 Hi 👋, I'm Avinash Kumar [cite: 1]
+# Hi there, I'm Avinash Kumar 👋
 
-### A passionate Cloud-native DevOps Engineer || [cite_start]Full-Stack Developer from India [cite: 2, 4]
-
-Email Me 👉 ✉️ [avinashkumar2109a@gmail.com](mailto:avinashkumar2109a@gmail.com) For Collaboration/Project or Anything Else. [cite_start]😊😊 [cite: 2]
-
-- [cite_start]🔭 I’m currently working on: **Enterprise CI/CD Pipelines & Cloud Infrastructure** [cite: 13]
-- [cite_start]🌱 I’m currently learning: **Advanced Cloud Architecture & Distributed Systems** [cite: 32]
-- [cite_start]👯 I’m looking to collaborate on: **AWS Cloud Automation & DevOps Best Practices** [cite: 5]
-- 🤔 I’m looking for help with: **Open Source DevOps Projects**
-- [cite_start]💬 Ask me about: **AWS, Jenkins, Docker, Kubernetes, and React.js** [cite: 9, 10]
-- [cite_start]📫 How to reach me: **avinashkumar2109a@gmail.com** [cite: 2]
-- 😄 Pronouns: **He/Him**
-- [cite_start]⚡ Fun fact: **I engineered a pipeline that reduced deployment time by 70%!** [cite: 15]
-- 🔗 I am a Technical Blogger. [cite_start]😊😊 [cite: 27]
-
----
-
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=2109avi&theme=flat&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 💻 Tech Stack:
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" /> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" /> </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" /> </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="maven" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
+<div align="center">
   
-  <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-kumar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinashkumar2109a@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2109avi)
+[![Location](https://img.shields.io/badge/Location-Jamshedpur,_India-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-</p>
+</div>
 
-[cite_start][cite: 9, 10, 11]
+## 🚀 About Me
 
----
+```yaml
+name: Avinash Kumar
+role: Cloud-Native DevOps Engineer & Full-Stack Developer
+education: MCA in Cloud Computing (84.17% - Top 10%)
+focus: ["Cloud Infrastructure", "CI/CD Automation", "Scalable Systems"]
+current_learning: DevOps with AWS @ Naresh i Technologies
+```
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&locale=en&theme=radical" alt="2109avi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2109avi&show_icons=true&locale=en&layout=compact&theme=radical" alt="2109avi" />
-</p>
+Cloud-native DevOps Engineer passionate about building and automating scalable infrastructure. I specialize in **AWS cloud services**, **CI/CD pipeline automation**, and **modern web development**. With a strong academic foundation and hands-on project experience, I leverage cutting-edge technologies to solve complex engineering challenges and drive operational excellence.
 
 ---
 
-### 🌐 Socials:
+## 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://linkedin.com/in/avinash-kumar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="avinash-kumar" /></a>
-  <a href="mailto:avinashkumar2109a@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="avinashkumar2109a@gmail.com" /></a>
-</p>
-[cite_start][cite: 2]
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+
+### 🔄 DevOps & CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 💻 Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🖥️ Operating Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+![Nexus](https://img.shields.io/badge/Nexus-1F1F1F?style=for-the-badge&logo=sonatype&logoColor=white)
+
+### 📊 Monitoring & Project Management
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 💼 Featured Projects
+
+### 🔧 Enterprise CI/CD Pipeline with AWS Integration
+**Technologies:** Jenkins | Docker | AWS | Maven | Nexus
+
+- ⚡ Engineered end-to-end CI/CD pipeline reducing deployment time by **70%**
+- 🚀 Orchestrated multi-stage Jenkins pipeline with GitHub webhooks and automated AWS EC2 deployment
+- 📦 Implemented Nexus artifact repository for versioned build management
+- 📊 Configured AWS CloudWatch for real-time monitoring achieving **99.9% uptime**
+- ✅ Eliminated **95%** of manual deployment errors
+
+### 🏥 Cloud-Native Blood Bank Management System
+**Technologies:** PHP | MySQL | JavaScript | AWS (EC2, S3, RDS)
+
+- ☁️ Architected HIPAA-compliant web application on AWS supporting **500+ concurrent users**
+- 🎨 Developed responsive, mobile-first UI enhancing user engagement by **60%**
+- 🗄️ Designed optimized MySQL database reducing data retrieval time by **45%**
+- 🔒 Implemented secure RESTful APIs with AWS security best practices
+- 💾 Automated backups with **15-minute RPO** disaster recovery
+
+### 🌐 Personal Portfolio & Technical Blog
+**Technologies:** React.js | Responsive Design | GitHub Pages
+
+- ⚛️ Built modern portfolio with React.js achieving **95+ Lighthouse score**
+- 📱 Implemented responsive design for seamless cross-device experience
+- 🚀 Deployed using GitHub Pages with automated workflow
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2109avi&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+**🎓 Master of Computer Applications (MCA)** - Cloud Computing Specialization  
+*Manipal University Jaipur* | CGPA: 8.4/10 (84.17%) - **Top 10%**
+
+**📜 Certifications:**
+- DevOps with AWS - Naresh i Technologies (2025)
+- Web Developer Program - AlmaBetter (2022)
+- Multiple Technical Competency Challenges
+
+---
+
+## 🌟 Core Competencies
+
+```
+☁️  Cloud-Native Architecture    🔄  Agile Methodology
+🔍  Problem-Solving              📚  Quick Technology Adoption
+🤝  Cross-Functional Collab      📝  Technical Documentation
+🎨  System Design                ⚡  Performance Optimization
+🔒  Security Best Practices      🚀  CI/CD Automation
+```
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 📧 Email: avinashkumar2109a@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/avinash-kumar](https://linkedin.com/in/avinash-kumar)
+- 📍 Location: Jamshedpur, India
+
+---
+
+<div align="center">
+  
+### ⚡ "Building scalable cloud infrastructure, one pipeline at a time" ⚡
+
+![Profile Views](https://komarev.com/ghpvc/?username=2109avi&color=blueviolet&style=for-the-badge)
+
+</div>
