@@ -95,15 +95,11 @@ Cloud-native DevOps Engineer passionate about building and automating scalable i
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2109avi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Avinash kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2109avi&layout=compact&theme=radical&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Avinash kumar&theme=dark&hide_border=false)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2109avi&theme=radical&hide_border=true)
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinash kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
