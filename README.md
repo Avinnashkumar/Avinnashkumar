@@ -105,6 +105,8 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 </details>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🏥 Cloud-Native Blood Bank Management System
 **Tech Stack:** `AWS (EC2, S3, RDS)` `PHP` `MySQL` `JavaScript` `HTML5/CSS3`
