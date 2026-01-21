@@ -153,12 +153,6 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 ---
 
 
-### 📈 Contribution Activity
-
-[![Avinash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=2109avi&theme=tokyo-night&hide_border=true)](https://github.com/2109avi)
-
-</div>
-
 ---
 
 ## 🎓 Education & Credentials
