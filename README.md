@@ -151,7 +151,11 @@ I'm a **Cloud-Native DevOps Engineer** with a strong foundation in building ente
 </details>
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
